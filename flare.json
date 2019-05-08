@@ -1,0 +1,101 @@
+{
+ "name": "flare",
+ "children": [
+
+  {
+   "name": "Support","color":"#1583a8",
+   "children": [
+    {
+     "name": "Finance and Accounting",
+     "children": [
+      {"name": "Accounting", "value": 721},
+      {"name": "Audit", "value": 4294},
+      {"name": "Controlling", "value": 9800}
+     ]
+    },
+    {"name": "Administrative",
+    "children": [
+      {"name": "Clerical Services", "value": 721},
+      {"name": "Document Production", "value": 221}
+     ]
+    },
+    {"name": "Information Technology", "value": 2165},
+    {"name": "Government Affairs", "value": 586},
+    {"name": "Human Resources",
+    "children": [
+      {"name": "Labor Relations", "value": 721},
+      {"name": "HR Generalist", "value": 721}
+     ]
+    },
+    {"name": "Legal", "value": 772},
+    {"name": "", "value": 0}
+   ]
+  },
+
+
+
+  {
+   "name": "Technical","color":"#458DDE",
+   "children": [
+    {"name": "Corporate Affairs", "value": 3460},
+    {"name": "Content Development", "value": 4260},
+    {"name": "Digital and Interactive Media", "value": 6000},
+    {"name": "Research and Development", "value": 9000},
+    {"name": "Engineering",
+    "children": [
+      {"name": "Engineering Technicians", "value": 9354},
+      {"name": "Engineering Drafters", "value": 9354},
+      {"name": "General Engineers", "value": 1233}
+     ]
+
+    },
+
+    {"name": "", "value": 0},
+    {"name": "", "value": 0},
+    {"name": "", "value": 0},
+    {"name": "", "value": 0},
+    {"name": "", "value": 0}
+   ]
+  },
+  {
+   "name": "Operations","color":"#45569B",
+
+   "children": [
+    {
+     "name": "Park Operations",
+     "children": [
+      {"name": "Maintenance", "value": 61302},
+      {"name": "Skilled Manual", "value": 4593},
+      {"name": "Production", "value": 15652}
+     ]
+    },
+
+    {
+     "name": "Business Development",
+     "children": [
+      {"name": "Support", "value": 5544},
+      {"name": "Training", "value": 9788},
+      {"name": "Sales Effectiveness", "value": 8349}
+     ]
+    },
+
+
+
+    {"name": "Broadcast", "value": 6540},
+    {"name": "Business Development", "value": 92260},
+    {"name": "Call Center", "value": 4540},
+    {"name": "Facilities", "value": 3540},
+    {"name": "Food & Beverage", "value": 19540},
+    {"name": "Horticulture", "value": 3540},
+    {"name": "Hotel", "value": 12260},
+    {"name": "Marketing & Promotions", "value": 74540},
+    {"name": "Merchandising", "value": 32540},
+    {"name": "Production and Programming", "value": 6540},
+    {"name": "Recreation", "value": 3540},
+    {"name": "Sales", "value": 12260},
+    {"name": "Security", "value": 7540},
+    {"name": "Logistics", "value": 6540}
+   ]
+  }
+ ]
+}

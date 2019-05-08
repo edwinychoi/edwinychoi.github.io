@@ -1,0 +1,9 @@
+{
+  "name": "zoomable-sunburst",
+  "main": "zoomable-sunburst.js",
+  "version": "341.0.0",
+  "author": {
+    "name": "Mike Bostock",
+    "url": "https://observablehq.com/@mbostock"
+  }
+}
